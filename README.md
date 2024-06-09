@@ -3,3 +3,4 @@ Used YOLOV8 for AI real time Object Detection. Self trained with images 700+ tak
 Code needs trained model which is provided, need to change directory as it is set to my files
 name of window will need to be changed as it is set to my account
 made only for learning purposes - do not use for anything else 
+may need more files, free feel to email me if it does not work - Arsh.singh.sandhu1@gmail.com
